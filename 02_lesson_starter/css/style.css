@@ -1,0 +1,35 @@
+html {
+    font-size: 12px;
+}
+body {
+    font-family: cursive;
+}
+
+main {
+    font-family: monospace;
+}
+
+h1, h2 {
+    color: blue;
+}
+
+p {
+    color: magenta
+
+}
+
+.gray {
+    color: gray;
+}
+
+#second {
+    color: green
+}
+
+.highlight {
+    background-color: yellow;
+    color:black;
+    font-style: oblique;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
