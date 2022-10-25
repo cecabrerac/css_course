@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&display=swap');
+
+body {
+    padding: 10%;
+    font-size: 1.2rem;
+    color: purple;
+}
+
+input, button {
+    font: inherit;
+    color: blue;
+}
+
+.p1 {
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-align: justify;
+    text-indent: 2em;
+    line-height: 1.5;
+    letter-spacing: 0.2em;
+    word-spacing: 0.1em;
+    font-weight: 900;
+    font-style: normal;
+    font-family: serif;
+
+}
+
+.p2 {
+    color: black;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+.p3 {
+    color: black;
+    font-size: 1.5rem;
+    line-height: 1.3rem;
+    font-family: 'Fasthand', cursive;
+}
