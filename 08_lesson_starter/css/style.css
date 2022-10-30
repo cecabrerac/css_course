@@ -16,9 +16,17 @@ ul {
   list-style-position: inside;
   color: orange;
   line-height: 1.6;
-  list-style-image: url(../images/checkmark.png);
+  /* list-style-image: url(../images/checkmark.png); */
 }
 
-ul li:nth-child(2) {
+ul li:nth-child(odd) {
   color: red
 }
+
+ul ::marker {
+  color: purple;
+  font-family: fantasy;
+  font-size: 1.1em;
+  content: "Only $5 >> ";
+}
+
