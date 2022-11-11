@@ -86,5 +86,18 @@ body {
   height: auto;
 }
 
+.clip {
+  font-weight: 800;
+  font-size: 16rem;
+  text-align: center;
+  background-image: url("../img/scenic-2200x1331.png");
+  background-size: 100%;
+  -webkit-background-clip: text; /* Chrome*/
+  background-clip: text; /*Mozilla*/
+  /* color: hsla(0, 0%, 0%, 0.2); */
+  color: transparent;
+  background-position: center;
+}
+
 
 
