@@ -27,7 +27,7 @@ body {
   font: 1.5rem "Nunito", sans-serif;
   min-height: 100vh;
   background-color: #475569;
-  background-image: radial-gradient(whitesmoke, #475569);
+  background-image: radial-gradient(whitesmoke, #405168);
   display: flex;
   flex-direction: column;
 }
